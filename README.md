@@ -2,7 +2,7 @@
 Fire Invulnerability / Scorch timer with stack counter and animation for WeaAuras Classic
 
 ## Import the following Lua Table:
-
+```lua
 {
     ["authorOptions"] = {
     },
@@ -210,3 +210,4 @@ Fire Invulnerability / Scorch timer with stack counter and animation for WeaAura
     ["config"] = {
     },
 }
+```
