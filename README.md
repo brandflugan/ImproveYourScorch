@@ -157,6 +157,7 @@ Fire Invulnerability / Scorch timer with stack counter and animation for WeaAura
         },
     },
     ["regionType"] = "icon",
+    ["url"] = "https://github.com/brandflugan/ImproveYourScorch",
     ["desc"] = "Fire Invulnerability / Scorch timer with stack counter and animation for WeaAuras Classic\\n\\nBy Brandflugan @ github",
     ["selfPoint"] = "CENTER",
     ["width"] = 63.999980926514,
